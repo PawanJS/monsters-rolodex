@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//PawanJS.github.io/monsters-rolodex/static/css/main.4f4ec286.chunk.css",
+    "main.js": "/https//PawanJS.github.io/monsters-rolodex/static/js/main.1d3c04a8.chunk.js",
+    "main.js.map": "/https//PawanJS.github.io/monsters-rolodex/static/js/main.1d3c04a8.chunk.js.map",
+    "runtime-main.js": "/https//PawanJS.github.io/monsters-rolodex/static/js/runtime-main.910989be.js",
+    "runtime-main.js.map": "/https//PawanJS.github.io/monsters-rolodex/static/js/runtime-main.910989be.js.map",
+    "static/js/2.743303ce.chunk.js": "/https//PawanJS.github.io/monsters-rolodex/static/js/2.743303ce.chunk.js",
+    "static/js/2.743303ce.chunk.js.map": "/https//PawanJS.github.io/monsters-rolodex/static/js/2.743303ce.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/https//PawanJS.github.io/monsters-rolodex/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/https//PawanJS.github.io/monsters-rolodex/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/https//PawanJS.github.io/monsters-rolodex/index.html",
+    "static/css/main.4f4ec286.chunk.css.map": "/https//PawanJS.github.io/monsters-rolodex/static/css/main.4f4ec286.chunk.css.map",
+    "static/js/2.743303ce.chunk.js.LICENSE.txt": "/https//PawanJS.github.io/monsters-rolodex/static/js/2.743303ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.910989be.js",
+    "static/js/2.743303ce.chunk.js",
+    "static/css/main.4f4ec286.chunk.css",
+    "static/js/main.1d3c04a8.chunk.js"
+  ]
+}
